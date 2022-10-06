@@ -191,7 +191,7 @@ Project Link: [https://github.com/po-the-panda-12/hangman](https://github.com/po
 ## References
 
 * [Random Word Generation (wonderwords)](https://wonderwords.readthedocs.io/en/latest/index.html)
-* [Word Definition (PyDictionary](https://pypi.org/project/PyDictionary/)
+* [Word Definition (PyDictionary])(https://pypi.org/project/PyDictionary/)
 
 
 
