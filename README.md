@@ -204,4 +204,4 @@ Project Link: [https://github.com/po-the-panda-12/hangman](https://github.com/po
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: screenshot.png
